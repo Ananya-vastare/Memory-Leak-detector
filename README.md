@@ -54,3 +54,7 @@ javac Main.java Memorychecker.java MemoryAnanlyzer.java && java Main
 `
 
 View logs in the GUI and live memory usage graph from memory.log.
+
+## Diagram
+
+<img width="3060" height="4172" alt="diagram" src="https://github.com/user-attachments/assets/dc42c7fe-8f5f-4d40-b400-8997d66382c4" />
