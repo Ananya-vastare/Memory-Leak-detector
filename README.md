@@ -45,11 +45,12 @@ A graph is displayed where if the graph spikes up it indicates a leak else it in
 
 ## How to run it
 1) Run Main.java to launch the memory logger and GUI:
-``
+`
 javac Main.java Memorychecker.java MemoryAnanlyzer.java && java Main
+`
 
 3) In a separate terminal, run the Python plot script:
-``
-python memory_plot.py
+`python memory_plot.py
+`
 
 View logs in the GUI and live memory usage graph from memory.log.
